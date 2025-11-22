@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://cdni.iconscout.com/illustration/premium/thumb/woman-programmer-working-on-a-new-project-illustration-svg-download-png-5264781.png" alt="Banner" style="height:120px; width:auto; />
+  <img src="https://cdni.iconscout.com/illustration/premium/thumb/woman-programmer-working-on-a-new-project-illustration-svg-download-png-5264781.png" alt="Banner" style="height:200px; width:auto; />
   <!-- img src="https://github.com/your-username/your-username/blob/main/assets/banner.png" alt="Android Developer Banner" / -->
 </p>
 
@@ -85,10 +85,10 @@
 ## 📬 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/yourname"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+  <a href="https://linkedin.com/in/shreya-subedi-0964bb219"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
   <a href="https://twitter.com/yourname"><img src="https://skillicons.dev/icons?i=twitter"/></a>
   <a href="https://play.google.com/store/apps/dev?id=your-id"><img src="https://skillicons.dev/icons?i=android"/></a>
-  <a href="mailto:yourmail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+  <a href="mailto:shreyasubedi48@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 </p>
 
 ---
