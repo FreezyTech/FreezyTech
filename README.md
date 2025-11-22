@@ -1,6 +1,7 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/your-username/your-username/blob/main/assets/banner.png" alt="Android Developer Banner" />
+  <img src="https://cdni.iconscout.com/illustration/premium/thumb/woman-programmer-working-on-a-new-project-illustration-svg-download-png-5264781.png" alt="Banner" />
+  <!-- img src="https://github.com/your-username/your-username/blob/main/assets/banner.png" alt="Android Developer Banner" / -->
 </p>
 
 <h1 align="center">Hi 👋, I'm Shreya Subedi!</h1>
